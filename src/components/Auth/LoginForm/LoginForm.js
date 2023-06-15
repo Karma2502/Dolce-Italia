@@ -31,7 +31,7 @@ const LoginForm = () => {
   return ( 
     <View style={styles.content}> 
        <Input 
-          placeholder='Correo Electronico' 
+          placeholder='Correo Electronicoooooooooooooooooooo' 
           containerStyle={styles.input} 
           rightIcon={ 
             <Icon type="material-community" name="at" iconStyle={styles.icon} />
